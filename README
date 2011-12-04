@@ -1,0 +1,5 @@
+This project is a means to remotely issue commands 
+and get the results on the client without using ssh.
+
+This is not nearly as secure as ssh but it is easy
+to setup and use in a private network.

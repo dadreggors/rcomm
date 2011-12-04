@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1258180105 source:/home/ddreggors/workspace/rcomm_geany/rcomm/ConfigFile.cpp
+	"ConfigFile.h"
+
+1258180102 /home/ddreggors/workspace/rcomm_geany/rcomm/ConfigFile.h
+	<string>
+	<map>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1258270427 source:/home/ddreggors/workspace/rcomm_geany/rcomm/rcomm.cpp
+	<iostream>
+	<fstream>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<time.h>
+	<vector>
+	<string>
+	<sys/stat.h>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	"ConfigFile.h"
+
+1241253310 source:/home/ddreggors/workspace/rcomm_geany/rcommd/ConfigFile.cpp
+	"ConfigFile.h"
+
+1241253310 /home/ddreggors/workspace/rcomm_geany/rcommd/ConfigFile.h
+	<string>
+	<map>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1241253310 source:/home/ddreggors/workspace/rcomm_geany/rcommd/ServerSocket.cpp
+	"ServerSocket.h"
+	"SocketException.h"
+
+1241253310 /home/ddreggors/workspace/rcomm_geany/rcommd/ServerSocket.h
+	"Socket.h"
+
+1241253310 /home/ddreggors/workspace/rcomm_geany/rcommd/Socket.h
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<unistd.h>
+	<string>
+	<arpa/inet.h>
+
+1241253310 /home/ddreggors/workspace/rcomm_geany/rcommd/SocketException.h
+	<string>
+
+1247468018 source:/home/ddreggors/workspace/rcomm_geany/rcommd/Socket.cpp
+	"Socket.h"
+	"string.h"
+	<string.h>
+	<errno.h>
+	<fcntl.h>
+	<iostream>
+
+1258345200 source:/home/ddreggors/workspace/rcomm_geany/rcommd/rcommd.cpp
+	<string>
+	<time.h>
+	<stdio.h>
+	<math.h>
+	<iostream>
+	<fstream>
+	<ctime>
+	<signal.h>
+	<sys/socket.h>
+	<sys/stat.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<vector>
+	<sys/wait.h>
+	<cstring>
+	<cstdlib>
+	"ConfigFile.h"
+
