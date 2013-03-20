@@ -1,5 +1,7 @@
-This project is a means to remotely issue commands 
-and get the results on the client without using ssh.
+This project is a means to remotely issue commands to many servers and get the results on the client without using ssh.
+This is not nearly as secure as ssh but it is easy to setup and use in a private network.
+The focus here is not to replace ssh for remote commands, it is to allow remote execution on a large number of servers
+once. There are several new technologies that facilitate this functionality however this does not require a config 
+managment system as in puppet or salt stack to accomplish the same task.
 
-This is not nearly as secure as ssh but it is easy
-to setup and use in a private network.
+
